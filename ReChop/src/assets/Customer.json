@@ -1,0 +1,167 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "Budi Santoso",
+    "email": "budi.santoso@email.com",
+    "phone": "+62 812-3456-7890",
+    "address": "Jl. Merdeka No. 10, Jakarta",
+    "status": "Active",
+    "total_orders": 12,
+    "total_spent": 1500000,
+    "join_date": "2023-10-15"
+  },
+  {
+    "id": "CUST-002",
+    "name": "Siti Aminah",
+    "email": "siti.aminah@email.com",
+    "phone": "+62 856-9876-5432",
+    "address": "Komp. Hijau Permai B3, Bandung",
+    "status": "Inactive",
+    "total_orders": 5,
+    "total_spent": 750000,
+    "join_date": "2023-11-20"
+  },
+  {
+    "id": "CUST-003",
+    "name": "Andi Wijaya",
+    "email": "andi.wijaya@email.com",
+    "phone": "+62 821-1122-3344",
+    "address": "Apartemen Mentari Tower A, Surabaya",
+    "status": "Active",
+    "total_orders": 28,
+    "total_spent": 4200000,
+    "join_date": "2023-08-05"
+  },
+  {
+    "id": "CUST-004",
+    "name": "Dewi Lestari",
+    "email": "dewi.l@email.com",
+    "phone": "+62 813-4455-6677",
+    "address": "Jl. Gajah Mada No. 45, Semarang",
+    "status": "Blocked",
+    "total_orders": 2,
+    "total_spent": 120000,
+    "join_date": "2024-01-12"
+  },
+  {
+    "id": "CUST-005",
+    "name": "Rian Hidayat",
+    "email": "rian.h@email.com",
+    "phone": "+62 878-0099-8877",
+    "address": "Perumahan Indah G7, Medan",
+    "status": "Active",
+    "total_orders": 15,
+    "total_spent": 2100000,
+    "join_date": "2023-12-30"
+  },
+  {
+    "id": "CUST-006",
+    "name": "Farhan Kurnia",
+    "email": "farhan.k@email.com",
+    "phone": "+62 811-2233-4455",
+    "address": "Jl. Sudirman No. 88, Yogyakarta",
+    "status": "Active",
+    "total_orders": 42,
+    "total_spent": 8900000,
+    "join_date": "2023-05-10"
+  },
+  {
+    "id": "CUST-007",
+    "name": "Lusi Aprilia",
+    "email": "lusi.a@email.com",
+    "phone": "+62 819-5566-7788",
+    "address": "Griya Asri Blok F, Palembang",
+    "status": "Inactive",
+    "total_orders": 1,
+    "total_spent": 50000,
+    "join_date": "2024-02-01"
+  },
+  {
+    "id": "CUST-008",
+    "name": "Eko Prasetyo",
+    "email": "eko.p@email.com",
+    "phone": "+62 812-9988-7766",
+    "address": "Jl. Gatot Subroto, Denpasar",
+    "status": "Active",
+    "total_orders": 10,
+    "total_spent": 2500000,
+    "join_date": "2023-09-18"
+  },
+  {
+    "id": "CUST-009",
+    "name": "Maya Indah",
+    "email": "maya.indah@email.com",
+    "phone": "+62 852-1144-7700",
+    "address": "Jl. Melati No. 12, Malang",
+    "status": "Blocked",
+    "total_orders": 0,
+    "total_spent": 0,
+    "join_date": "2024-03-05"
+  },
+  {
+    "id": "CUST-010",
+    "name": "Bambang Pamungkas",
+    "email": "bambang.p@email.com",
+    "phone": "+62 813-8899-0011",
+    "address": "Komp. Olahraga No. 20, Solo",
+    "status": "Active",
+    "total_orders": 55,
+    "total_spent": 12400000,
+    "join_date": "2022-12-12"
+  },
+  {
+    "id": "CUST-011",
+    "name": "Siska Putri",
+    "email": "siska.p@email.com",
+    "phone": "+62 857-3344-5566",
+    "address": "Jl. Ahmad Yani, Makassar",
+    "status": "Active",
+    "total_orders": 8,
+    "total_spent": 1200000,
+    "join_date": "2024-01-25"
+  },
+  {
+    "id": "CUST-012",
+    "name": "Hendra Wijaya",
+    "email": "hendra.w@email.com",
+    "phone": "+62 818-7766-5544",
+    "address": "Jl. Pahlawan No. 3, Balikpapan",
+    "status": "Inactive",
+    "total_orders": 3,
+    "total_spent": 450000,
+    "join_date": "2023-07-14"
+  },
+  {
+    "id": "CUST-013",
+    "name": "Rina Kartika",
+    "email": "rina.k@email.com",
+    "phone": "+62 812-0011-2233",
+    "address": "Perum Permata C5, Bogor",
+    "status": "Active",
+    "total_orders": 20,
+    "total_spent": 3800000,
+    "join_date": "2023-06-20"
+  },
+  {
+    "id": "CUST-014",
+    "name": "Taufik Hidayat",
+    "email": "taufik.h@email.com",
+    "phone": "+62 811-9900-8877",
+    "address": "Jl. Badminton No. 1, Bandung",
+    "status": "Active",
+    "total_orders": 17,
+    "total_spent": 2900000,
+    "join_date": "2023-04-15"
+  },
+  {
+    "id": "CUST-015",
+    "name": "Yulia Safitri",
+    "email": "yulia.s@email.com",
+    "phone": "+62 856-4433-2211",
+    "address": "Jl. Mawar Putih, Banjarmasin",
+    "status": "Active",
+    "total_orders": 6,
+    "total_spent": 900000,
+    "join_date": "2024-02-28"
+  }
+]

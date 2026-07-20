@@ -1,0 +1,122 @@
+[
+  {
+    "id": "PEM-001",
+    "name": "PT Daur Plastik Indonesia",
+    "email": "plastikindo@email.com",
+    "phone": "+62 812-3456-7890",
+    "address": "Jl. Industri No. 10, Pekanbaru",
+    "status": "Active",
+    "total_orders": 32,
+    "total_spent": 8500000,
+    "waste_type": "Plastik",
+    "join_date": "2023-10-15"
+  },
+  {
+    "id": "PEM-002",
+    "name": "CV Kertas Bersih",
+    "email": "kertasbersih@email.com",
+    "phone": "+62 856-9876-5432",
+    "address": "Jl. Melati No. 5, Dumai",
+    "status": "Inactive",
+    "total_orders": 14,
+    "total_spent": 3200000,
+    "waste_type": "Kertas",
+    "join_date": "2023-11-20"
+  },
+  {
+    "id": "PEM-003",
+    "name": "UD Logam Jaya",
+    "email": "logamjaya@email.com",
+    "phone": "+62 821-1122-3344",
+    "address": "Jl. Sudirman No. 21, Siak",
+    "status": "Active",
+    "total_orders": 40,
+    "total_spent": 12400000,
+    "waste_type": "Besi & Kaleng",
+    "join_date": "2023-08-05"
+  },
+  {
+    "id": "PEM-004",
+    "name": "Bank Sampah Hijau",
+    "email": "banksampah@email.com",
+    "phone": "+62 813-4455-6677",
+    "address": "Jl. Gajah Mada No. 45, Pekanbaru",
+    "status": "Blocked",
+    "total_orders": 3,
+    "total_spent": 500000,
+    "waste_type": "Campuran",
+    "join_date": "2024-01-12"
+  },
+  {
+    "id": "PEM-005",
+    "name": "CV Organik Lestari",
+    "email": "organik@email.com",
+    "phone": "+62 878-0099-8877",
+    "address": "Jl. Mawar Indah, Pelalawan",
+    "status": "Active",
+    "total_orders": 28,
+    "total_spent": 6700000,
+    "waste_type": "Sampah Organik",
+    "join_date": "2023-12-30"
+  },
+  {
+    "id": "PEM-006",
+    "name": "PT Eco Waste",
+    "email": "ecowaste@email.com",
+    "phone": "+62 811-2233-4455",
+    "address": "Jl. Veteran No. 88, Rengat",
+    "status": "Active",
+    "total_orders": 55,
+    "total_spent": 15900000,
+    "waste_type": "Elektronik",
+    "join_date": "2023-05-10"
+  },
+  {
+    "id": "PEM-007",
+    "name": "CV Botol Bersama",
+    "email": "botolbersama@email.com",
+    "phone": "+62 819-5566-7788",
+    "address": "Jl. Harapan Baru, Tembilahan",
+    "status": "Inactive",
+    "total_orders": 5,
+    "total_spent": 950000,
+    "waste_type": "Botol Kaca",
+    "join_date": "2024-02-01"
+  },
+  {
+    "id": "PEM-008",
+    "name": "PT Aluminium Makmur",
+    "email": "aluminium@email.com",
+    "phone": "+62 812-9988-7766",
+    "address": "Jl. Gatot Subroto, Pekanbaru",
+    "status": "Active",
+    "total_orders": 22,
+    "total_spent": 5400000,
+    "waste_type": "Aluminium",
+    "join_date": "2023-09-18"
+  },
+  {
+    "id": "PEM-009",
+    "name": "CV Kardus Mandiri",
+    "email": "kardus@email.com",
+    "phone": "+62 852-1144-7700",
+    "address": "Jl. Melati No. 12, Bangkinang",
+    "status": "Blocked",
+    "total_orders": 1,
+    "total_spent": 120000,
+    "waste_type": "Kardus",
+    "join_date": "2024-03-05"
+  },
+  {
+    "id": "PEM-010",
+    "name": "PT Bersih Lingkungan",
+    "email": "bersih@email.com",
+    "phone": "+62 813-8899-0011",
+    "address": "Jl. Industri No. 20, Dumai",
+    "status": "Active",
+    "total_orders": 63,
+    "total_spent": 18400000,
+    "waste_type": "Campuran",
+    "join_date": "2022-12-12"
+  }
+]

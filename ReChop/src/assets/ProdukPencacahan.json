@@ -1,0 +1,37 @@
+[
+  {
+    "id": "PR001",
+    "nama": "Cacahan Plastik PET",
+    "jenis": "Plastik",
+    "stok": 250,
+    "harga": 3500
+  },
+  {
+    "id": "PR002",
+    "nama": "Cacahan HDPE",
+    "jenis": "Plastik",
+    "stok": 180,
+    "harga": 4000
+  },
+  {
+    "id": "PR003",
+    "nama": "Cacahan PP",
+    "jenis": "Plastik",
+    "stok": 150,
+    "harga": 3800
+  },
+  {
+    "id": "PR004",
+    "nama": "Cacahan Kertas",
+    "jenis": "Kertas",
+    "stok": 300,
+    "harga": 2200
+  },
+  {
+    "id": "PR005",
+    "nama": "Cacahan Kardus",
+    "jenis": "Kertas",
+    "stok": 200,
+    "harga": 2500
+  }
+]

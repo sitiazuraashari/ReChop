@@ -1,0 +1,29 @@
+[
+    {
+        "id": "PJ001",
+        "nama_pembeli": "PT Daur Ulang Riau",
+        "nama_produk": "Cacahan Plastik PET",
+        "jumlah": 50,
+        "harga": 3500,
+        "metode_pembayaran": "Transfer Bank",
+        "tanggal_transaksi": "2026-06-07"
+    },
+    {
+        "id": "PJ002",
+        "nama_pembeli": "CV Bersih Lingkungan",
+        "nama_produk": "Cacahan HDPE",
+        "jumlah": 25,
+        "harga": 4000,
+        "metode_pembayaran": "Cash",
+        "tanggal_transaksi": "2026-06-08"
+    },
+    {
+        "id": "PJ003",
+        "nama_pembeli": "PT Hijau Lestari",
+        "nama_produk": "Cacahan Kardus",
+        "jumlah": 100,
+        "harga": 2500,
+        "metode_pembayaran": "QRIS",
+        "tanggal_transaksi": "2026-06-10"
+    }
+]
